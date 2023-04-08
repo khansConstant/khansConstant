@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught full-stack web developer<br>Tech enthusiasts looking for an opportunity to showcase as well as improve upon my technical abbilities
+Self-taught full-stack web developer<br>Tech enthusiasts looking for an opportunity to showcase as well as improve upon my technical abilities
 
 
 
