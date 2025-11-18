@@ -9,6 +9,9 @@ Full-stack web developer<br>Tech enthusiasts looking for an opportunity to showc
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%231572B6.svg?style=for-the-badge&logo=Postgres&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khansConstant&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
