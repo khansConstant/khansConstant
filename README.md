@@ -12,6 +12,7 @@ Full-stack web developer<br>Tech enthusiasts looking for an opportunity to showc
 ![Postgres](https://img.shields.io/badge/Postgres-%231572B6.svg?style=for-the-badge&logo=Postgres&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SupaBase](https://img.shields.io/badge/SupaBase-%231572B6.svg?style=for-the-badge&logo=SupaBase&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khansConstant&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
